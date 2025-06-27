@@ -1,0 +1,4 @@
+OrderID,OrderDate,Region,CustomerName,Segment,ProductName,Category,SubCategory,UnitsSold,UnitPrice,TotalSales,Profit
+O001,2023-01-15,North,"Aakash Verma",Consumer,"Canon Printer",Technology,Peripherals,2,500.00,1000.00,150.00
+O002,2023-01-18,South,"Priya Sharma",Corporate,"Office Chair",Furniture,Chairs,1,750.00,750.00,200.00
+O003,2023-02-10,West,"Ravi Kumar","Home Office","HP Laptop",Technology,Computers,3,500.00,1500.00,300.00
