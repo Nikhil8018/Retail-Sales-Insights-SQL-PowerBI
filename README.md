@@ -51,6 +51,9 @@ Created a Retail Sales Analysis dashboard using MySQL and Power BI. Designed the
 
 
 
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](Retail_sales_Dashboard.png)
 
 
 
